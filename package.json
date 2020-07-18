@@ -1,0 +1,19 @@
+{
+  "name": "nodejscourse",
+  "version": "1.0.0",
+  "description": "Master Node JS &amp; Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL &amp; much more!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IoanaVas/nodejsCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IoanaVas/nodejsCourse/issues"
+  },
+  "homepage": "https://github.com/IoanaVas/nodejsCourse#readme"
+}
